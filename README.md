@@ -1,9 +1,3 @@
-import React, { useMemo, useState } from "react";
-
-// === KURULUM TALİMATI ===
-// 1) CONFIG bölümünü kendinize göre düzenleyin.
-// 2) Ürünler için ödeme linklerini ekleyin.
-// 3) Dosyayı deploy edin (Vercel/Netlify/GitHub Pages).
 
 const CONFIG = {
   siteName: "Voibandiera",
